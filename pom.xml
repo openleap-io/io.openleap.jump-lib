@@ -76,7 +76,7 @@
 		<maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version> <!--
 		in line with boot -->
 		<maven-gpg-plugin.version>3.2.5</maven-gpg-plugin.version>
-		<maven-jar-plugin.version>3.3.0</maven-jar-plugin.version> <!-- in line
+		<maven-jar-plugin.version>3.4.2</maven-jar-plugin.version> <!-- in line
 		with boot -->
 		<maven-javadoc-plugin.version>3.8.0</maven-javadoc-plugin.version> <!--
 		in line with boot -->
