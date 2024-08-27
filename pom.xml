@@ -60,7 +60,7 @@
 		<spring-rabbit.version>3.1.2</spring-rabbit.version>
 		<spring-hateoas.version>2.2.2</spring-hateoas.version> <!-- in line with
 		boot -->
-		<spring-security.version>6.2.4</spring-security.version> <!-- in line
+		<spring-security.version>6.3.3</spring-security.version> <!-- in line
 		with boot -->
 		<spring-framework.version>6.1.6</spring-framework.version> <!-- in line
 		with boot -->
