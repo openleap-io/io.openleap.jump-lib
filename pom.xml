@@ -62,7 +62,7 @@
 		boot -->
 		<spring-security.version>6.2.4</spring-security.version> <!-- in line
 		with boot -->
-		<spring-framework.version>6.1.6</spring-framework.version> <!-- in line
+		<spring-framework.version>6.1.12</spring-framework.version> <!-- in line
 		with boot -->
 		<spring-boot-dependencies.version>3.2.5</spring-boot-dependencies.version>
 		<spring-cloud-commons.version>4.1.2</spring-cloud-commons.version> <!--
