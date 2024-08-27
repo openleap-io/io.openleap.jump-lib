@@ -36,7 +36,7 @@
 		GitHub -->
 
 		<!-- Dependency versions -->
-		<de.flapdoodle.embed.mongo.version>4.12.2</de.flapdoodle.embed.mongo.version>
+		<de.flapdoodle.embed.mongo.version>4.17.0</de.flapdoodle.embed.mongo.version>
 		<dozer.version>7.0.0</dozer.version>
 		<feign.version>13.2.1</feign.version> <!-- in line with
 		spring-cloud-openfeign-core -->
