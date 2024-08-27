@@ -40,7 +40,7 @@
 		<dozer.version>7.0.0</dozer.version>
 		<feign.version>13.3</feign.version> <!-- in line with
 		spring-cloud-openfeign-core -->
-		<h2.version>2.2.224</h2.version> <!-- in line with boot -->
+		<h2.version>2.3.232</h2.version> <!-- in line with boot -->
 		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version> <!--
 		in line with boot -->
 		<jackson.version>2.15.4</jackson.version> <!-- in line with boot -->
