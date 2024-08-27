@@ -55,7 +55,7 @@
 		<json-path.version>2.9.0</json-path.version> <!-- in line with boot -->
 		<jjwt.version>0.12.5</jjwt.version>
 		<jwks-rsa.version>0.22.1</jwks-rsa.version>
-		<logback.version>1.4.14</logback.version> <!-- in line with boot -->
+		<logback.version>1.5.7</logback.version> <!-- in line with boot -->
 		<querydsl.version>5.1.0</querydsl.version>
 		<spring-rabbit.version>3.1.2</spring-rabbit.version>
 		<spring-hateoas.version>2.2.2</spring-hateoas.version> <!-- in line with
