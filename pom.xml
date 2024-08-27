@@ -68,7 +68,7 @@
 		<spring-cloud-commons.version>4.1.2</spring-cloud-commons.version> <!--
 		in line with spring-cloud-dependencies -->
 		<spring-cloud-sleuth-api.version>3.1.11</spring-cloud-sleuth-api.version>
-		<spring-data-bom.version>2023.1.5</spring-data-bom.version> <!-- in line
+		<spring-data-bom.version>2024.0.3</spring-data-bom.version> <!-- in line
 		with boot -->
 
 		<!-- Plugin versions -->
