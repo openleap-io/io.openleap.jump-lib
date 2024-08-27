@@ -43,7 +43,7 @@
 		<h2.version>2.3.232</h2.version> <!-- in line with boot -->
 		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version> <!--
 		in line with boot -->
-		<jackson.version>2.15.4</jackson.version> <!-- in line with boot -->
+		<jackson.version>2.17.2</jackson.version> <!-- in line with boot -->
 		<jakarta.el.version>4.0.2</jakarta.el.version>
 		<jakarta.enterprise.cdi-api.version>4.0.1</jakarta.enterprise.cdi-api.version>
 		<jakarta-servlet.version>6.1.0</jakarta-servlet.version> <!-- in line
