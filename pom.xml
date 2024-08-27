@@ -48,7 +48,7 @@
 		<jakarta.enterprise.cdi-api.version>4.0.1</jakarta.enterprise.cdi-api.version>
 		<jakarta-servlet.version>6.0.0</jakarta-servlet.version> <!-- in line
 		with boot -->
-		<jakarta.persistence-api.version>3.1.0</jakarta.persistence-api.version> <!--
+		<jakarta.persistence-api.version>3.2.0</jakarta.persistence-api.version> <!--
 		in line with boot / hibernate-core -->
 		<jakarta.validation-api.version>3.0.2</jakarta.validation-api.version> <!--
 		in line with hibernate-validator-parent -->
