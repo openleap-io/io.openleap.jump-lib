@@ -38,7 +38,7 @@
 		<!-- Dependency versions -->
 		<de.flapdoodle.embed.mongo.version>4.12.2</de.flapdoodle.embed.mongo.version>
 		<dozer.version>7.0.0</dozer.version>
-		<feign.version>13.2.1</feign.version> <!-- in line with
+		<feign.version>13.3</feign.version> <!-- in line with
 		spring-cloud-openfeign-core -->
 		<h2.version>2.2.224</h2.version> <!-- in line with boot -->
 		<hibernate-validator.version>8.0.1.Final</hibernate-validator.version> <!--
