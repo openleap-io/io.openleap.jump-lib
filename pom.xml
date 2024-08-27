@@ -58,7 +58,7 @@
 		<logback.version>1.4.14</logback.version> <!-- in line with boot -->
 		<querydsl.version>5.1.0</querydsl.version>
 		<spring-rabbit.version>3.1.2</spring-rabbit.version>
-		<spring-hateoas.version>2.2.2</spring-hateoas.version> <!-- in line with
+		<spring-hateoas.version>2.3.2</spring-hateoas.version> <!-- in line with
 		boot -->
 		<spring-security.version>6.3.3</spring-security.version> <!-- in line
 		with boot -->
